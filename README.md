@@ -1,2 +1,2 @@
-# imersaocssalura
-site utilizando html e css
+# imersao CSS Alura
+Minha primeira imersão utilizando html e css.
